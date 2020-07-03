@@ -11,6 +11,7 @@ namespace JWTAuthDemo.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //SampleBranches
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"

@@ -17,6 +17,7 @@ namespace JWTAuthDemo.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
+        //Sample Branch code
         public IConfiguration _configuration;
 
         public LoginController(IConfiguration configuration)
